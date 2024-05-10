@@ -1,0 +1,37 @@
+
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color: black;
+}
+.clock{
+
+    width: 190px;
+    height:20px;
+    padding: 30px;
+    text-align: center;
+    justify-items: center;
+  
+  }
+  .clock{
+    margin-left: 550px;
+    margin-top: 300px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 550;
+    border-color: black;
+    
+  }
+  .clock{
+    border-radius: 30px;
+    border-style:double;
+    border-color:  solidblack;
+    border-width: 5px;
+    background: linear-gradient(#5761B2,#1fC5A8);
+  }
+  .clock:hover{
+    background: linear-gradient(#5761B2,#1fC5A8);
+    box-shadow: 0 0 30px #5761B2;
+  }
